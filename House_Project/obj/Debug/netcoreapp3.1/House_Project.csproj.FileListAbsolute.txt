@@ -1,0 +1,12 @@
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.csprojAssemblyReference.cache
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.AssemblyInfoInputs.cache
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.AssemblyInfo.cs
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.csproj.CoreCompileInputs.cache
+/Users/seylatann/Projects/House_Project/bin/Debug/netcoreapp3.1/House_Project.deps.json
+/Users/seylatann/Projects/House_Project/bin/Debug/netcoreapp3.1/House_Project.runtimeconfig.json
+/Users/seylatann/Projects/House_Project/bin/Debug/netcoreapp3.1/House_Project.runtimeconfig.dev.json
+/Users/seylatann/Projects/House_Project/bin/Debug/netcoreapp3.1/House_Project.dll
+/Users/seylatann/Projects/House_Project/bin/Debug/netcoreapp3.1/House_Project.pdb
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.dll
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.pdb
+/Users/seylatann/Projects/House_Project/obj/Debug/netcoreapp3.1/House_Project.genruntimeconfig.cache
